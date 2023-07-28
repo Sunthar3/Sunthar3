@@ -8,4 +8,4 @@
 
 📚 B.Tech student in Computer Science and Business Systems at Sri Eshwar College of Engineering, and I hold certifications from Cisco on Networking Essentials and Introduction to Cybersecurity.
 
-📫 Connect with me on LinkedIn to explore more about my experiences and contributions: [LinkedIn Profile](https://www.linkedin.com/in/sunthar3/)
+📫 Connect with me on LinkedIn to explore more about my experiences and contributions: [LinkedIn Profile](https://www.linkedin.com/in/sunthara-moorthy-k-951bba225/)
