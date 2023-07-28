@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Sunthar3
-- 👀 I’m interested in Network Security, Opensource Intelligence, CyberThreat Intelligence.....
-- 🌱 I’m currently learning Threat Intelligence.....
-- 💞️ I’m looking to collaborate on cybersecurity
-- 📫 Check my linkedIn profile....
+👋 Hi, I'm Sunthar!
 
-<!---
-Sunthar3/Sunthar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔒 Cybersecurity Enthusiast with a keen interest in Threat Intelligence, OT and ICS Security. Currently, I am working as a Cybersecurity Researcher, focusing on researching dark web threats and securing industrial control systems.
+
+🌱 Constantly learning and developing expertise in OT security, ICS pentesting, and industrial networking to strengthen critical infrastructure protection.
+
+💼 Aspiring to collaborate on cybersecurity projects, contribute to cutting-edge security solutions, and enhance the concept of External Attack Surface Management (EASM) for organizations and government agencies, especially in India.
+
+📚 B.Tech student in Computer Science and Business Systems at Sri Eshwar College of Engineering, and I hold certifications from Cisco on Networking Essentials and Introduction to Cybersecurity.
+
+📫 Connect with me on LinkedIn to explore more about my experiences and contributions: [LinkedIn Profile](https://www.linkedin.com/in/sunthar3/)
